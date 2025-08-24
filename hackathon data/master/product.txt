@@ -1,0 +1,481 @@
+Product_Id|Product_Name|Product_Category|Product_Brand|Product_Type
+10001|4K TV|Electronics|Samsung|Television
+10002|4K TV|Electronics|Sony|Television
+10003|Acer Iconia Tab|Electronics|Apple|Tablet
+10004|Acer Iconia Tab|Electronics|Samsung|Tablet
+10005|Acer Swift|Electronics|Apple|Laptop
+10006|Action|Books|HarperCollins|Thriller
+10007|Adventure|Books|HarperCollins|Fiction
+10008|Adventure|Books|HarperCollins|Thriller
+10009|Adventure|Books|Penguin Books|Fiction
+10010|Adventure|Books|Random House|Fiction
+10011|Affogato|Grocery|Nestle|Coffee
+10012|Air conditioner|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10013|A-line dress|Clothing|Zara|Dress
+10014|Alkaline water|Grocery|Coca-Cola|Water
+10015|Alkaline water|Grocery|Pepsi|Water
+10016|Amazon Fire Tablet|Electronics|Apple|Tablet
+10017|Amazon Fire Tablet|Electronics|Samsung|Tablet
+10018|Americano|Grocery|Nestle|Coffee
+10019|Android TV|Electronics|Samsung|Television
+10020|Android TV|Electronics|Sony|Television
+10021|Anthologies|Books|Random House|Literature
+10022|Apple juice|Grocery|Coca-Cola|Juice
+10023|Apple juice|Grocery|Pepsi|Juice
+10024|Art supplies|Books|Penguin Books|Children's
+10025|Artesian water|Grocery|Coca-Cola|Water
+10026|Artesian water|Grocery|Pepsi|Water
+10027|Asus ZenBook|Electronics|Apple|Laptop
+10028|Asus ZenPad|Electronics|Apple|Tablet
+10029|Asus ZenPad|Electronics|Samsung|Tablet
+10030|Athletic shorts|Clothing|Nike|Shorts
+10031|Bathtub|Home Decor|Bed Bath & Beyond|Bathroom
+10032|Bed|Home Decor|Home Depot|Furniture
+10033|Bed|Home Decor|IKEA|Furniture
+10034|Bed sheet set|Home Decor|Bed Bath & Beyond|Bedding
+10035|Bed skirt|Home Decor|Bed Bath & Beyond|Bedding
+10036|Beef jerky|Grocery|Nestle|Snacks
+10037|Bermuda shorts|Clothing|Nike|Shorts
+10038|Biography|Books|HarperCollins|Non-Fiction
+10039|Biography|Books|Penguin Books|Non-Fiction
+10040|Biography|Books|Random House|Non-Fiction
+10041|Black refrigerator|Electronics|Whirepool|Fridge
+10042|Blanket|Home Decor|Bed Bath & Beyond|Bedding
+10043|Blazer|Clothing|Adidas|Jacket
+10044|Blender|Home Decor|Bed Bath & Beyond|Kitchen
+10045|Blouse|Clothing|Zara|Shirt
+10046|Bluetooth headphones|Electronics|Sony|Headphones
+10047|Board shorts|Clothing|Nike|Shorts
+10048|Bodycon dress|Clothing|Zara|Dress
+10049|Bomber jacket|Clothing|Adidas|Jacket
+10050|Books|Books|Penguin Books|Children's
+10051|Bookshelf|Home Decor|Home Depot|Furniture
+10052|Bookshelf|Home Decor|IKEA|Furniture
+10053|Bootcut jeans|Clothing|Zara|Jeans
+10054|Boots|Clothing|Adidas|Shoes
+10055|Boots|Clothing|Nike|Shoes
+10056|Bottled water|Grocery|Coca-Cola|Water
+10057|Bottled water|Grocery|Pepsi|Water
+10058|Bottom-freezer refrigerator|Electronics|Whirepool|Fridge
+10059|Boyfriend jeans|Clothing|Zara|Jeans
+10060|Building blocks|Books|Penguin Books|Children's
+10061|Business|Books|HarperCollins|Non-Fiction
+10062|Business|Books|Penguin Books|Non-Fiction
+10063|Business|Books|Random House|Non-Fiction
+10064|Button-down shirt|Clothing|Zara|Shirt
+10065|Candles|Home Decor|Home Depot|Decorations
+10066|Candles|Home Decor|IKEA|Decorations
+10067|Cappuccino|Grocery|Nestle|Coffee
+10068|Cargo shorts|Clothing|Nike|Shorts
+10069|Cassette AC|Electronics|BlueStar|BlueStar AC
+10070|Cassette AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10071|Casual dress|Clothing|Zara|Dress
+10072|Caulking gun|Home Decor|Home Depot|Tools
+10073|Ceiling lights|Home Decor|IKEA|Lighting
+10074|Central AC|Electronics|BlueStar|BlueStar AC
+10075|Central AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10076|Chandeliers|Home Decor|IKEA|Lighting
+10077|Cheese snacks|Grocery|Nestle|Snacks
+10078|Chino shorts|Clothing|Nike|Shorts
+10079|Chips|Grocery|Nestle|Snacks
+10080|Chocolate bars|Grocery|Nestle|Chocolate
+10081|Chocolate cookies|Grocery|Nestle|Chocolate
+10082|Chocolate fondue|Grocery|Nestle|Chocolate
+10083|Chocolate mousse|Grocery|Nestle|Chocolate
+10084|Chocolate-covered fruits|Grocery|Nestle|Chocolate
+10085|Chocolate-covered nuts|Grocery|Nestle|Chocolate
+10086|Classic literature|Books|Random House|Literature
+10087|Clocks|Home Decor|Home Depot|Decorations
+10088|Clocks|Home Decor|IKEA|Decorations
+10089|Clothing|Books|Penguin Books|Children's
+10090|Cocktail dress|Clothing|Zara|Dress
+10091|Coconut water|Grocery|Coca-Cola|Water
+10092|Coconut water|Grocery|Pepsi|Water
+10093|Coffee beans|Grocery|Nestle|Coffee
+10094|Coffee maker|Home Decor|Bed Bath & Beyond|Kitchen
+10095|Coffee table|Home Decor|Home Depot|Furniture
+10096|Coffee table|Home Decor|IKEA|Furniture
+10097|Cola|Grocery|Coca-Cola|Soft Drink
+10098|Cola|Grocery|Pepsi|Soft Drink
+10099|Comforter|Home Decor|Bed Bath & Beyond|Bedding
+10100|Compact refrigerator|Electronics|Whirepool|Fridge
+10101|Contemporary literature|Books|Random House|Literature
+10102|Cooking|Books|HarperCollins|Non-Fiction
+10103|Cooking|Books|Penguin Books|Non-Fiction
+10104|Cooking|Books|Random House|Non-Fiction
+10105|Counter-depth refrigerator|Electronics|Whirepool|Fridge
+10106|Crackers|Grocery|Nestle|Snacks
+10107|Cranberry juice|Grocery|Coca-Cola|Juice
+10108|Cranberry juice|Grocery|Pepsi|Juice
+10109|Cream soda|Grocery|Coca-Cola|Soft Drink
+10110|Cream soda|Grocery|Pepsi|Soft Drink
+10111|Crew neck tee|Clothing|Adidas|T-shirt
+10112|Crew neck tee|Clothing|Nike|T-shirt
+10113|Crime|Books|HarperCollins|Thriller
+10114|Crop top|Clothing|Adidas|T-shirt
+10115|Crop top|Clothing|Nike|T-shirt
+10116|Cropped jeans|Clothing|Zara|Jeans
+10117|Curtains|Home Decor|Home Depot|Decorations
+10118|Curtains|Home Decor|IKEA|Decorations
+10119|Curved TV|Electronics|Samsung|Television
+10120|Curved TV|Electronics|Sony|Television
+10121|Cycling shorts|Clothing|Nike|Shorts
+10122|Dark chocolate|Grocery|Nestle|Chocolate
+10123|Decorative pillows|Home Decor|Home Depot|Decorations
+10124|Decorative pillows|Home Decor|IKEA|Decorations
+10125|Dell XPS|Electronics|Apple|Laptop
+10126|Denim jacket|Clothing|Adidas|Jacket
+10127|Denim shorts|Clothing|Nike|Shorts
+10128|Desk|Home Decor|Home Depot|Furniture
+10129|Desk|Home Decor|IKEA|Furniture
+10130|Desk lamps|Home Decor|IKEA|Lighting
+10131|Detective|Books|HarperCollins|Thriller
+10132|Dining table|Home Decor|Home Depot|Furniture
+10133|Dining table|Home Decor|IKEA|Furniture
+10134|Dishwasher|Home Decor|Bed Bath & Beyond|Kitchen
+10135|Distilled water|Grocery|Coca-Cola|Water
+10136|Distilled water|Grocery|Pepsi|Water
+10137|Distressed jeans|Clothing|Zara|Jeans
+10138|DJ headphones|Electronics|Sony|Headphones
+10139|Drama|Books|Random House|Literature
+10140|Dress shirt|Clothing|Zara|Shirt
+10141|Dresser|Home Decor|Home Depot|Furniture
+10142|Dresser|Home Decor|IKEA|Furniture
+10143|Drill|Home Decor|Home Depot|Tools
+10144|Ductless AC|Electronics|BlueStar|BlueStar AC
+10145|Ductless AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10146|Dust ruffle|Home Decor|Bed Bath & Beyond|Bedding
+10147|Duvet cover|Home Decor|Bed Bath & Beyond|Bedding
+10148|Dystopian|Books|HarperCollins|Fiction
+10149|Dystopian|Books|Penguin Books|Fiction
+10150|Dystopian|Books|Random House|Fiction
+10151|Educational kits|Books|Penguin Books|Children's
+10152|Electric kettle|Home Decor|Bed Bath & Beyond|Kitchen
+10153|Energy drink|Grocery|Coca-Cola|Soft Drink
+10154|Energy drink|Grocery|Pepsi|Soft Drink
+10155|Espadrilles|Clothing|Adidas|Shoes
+10156|Espadrilles|Clothing|Nike|Shoes
+10157|Espresso|Grocery|Nestle|Coffee
+10158|Essays|Books|Random House|Literature
+10159|Fantasy|Books|HarperCollins|Fiction
+10160|Fantasy|Books|Penguin Books|Fiction
+10161|Fantasy|Books|Random House|Fiction
+10162|Fit and flare dress|Clothing|Zara|Dress
+10163|Flannel shirt|Clothing|Zara|Shirt
+10164|Flare jeans|Clothing|Zara|Jeans
+10165|Flavored water|Grocery|Coca-Cola|Water
+10166|Flavored water|Grocery|Pepsi|Water
+10167|Flip flops|Clothing|Adidas|Shoes
+10168|Flip flops|Clothing|Nike|Shoes
+10169|Floor lamps|Home Decor|IKEA|Lighting
+10170|Floor-standing AC|Electronics|BlueStar|BlueStar AC
+10171|Floor-standing AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10172|Food processor|Home Decor|Bed Bath & Beyond|Kitchen
+10173|French door refrigerator|Electronics|Whirepool|Fridge
+10174|Fruit punch|Grocery|Coca-Cola|Soft Drink
+10175|Fruit punch|Grocery|Pepsi|Soft Drink
+10176|Fruit snacks|Grocery|Nestle|Snacks
+10177|Games|Books|Penguin Books|Children's
+10178|Gaming headphones|Electronics|Sony|Headphones
+10179|Ginger ale|Grocery|Coca-Cola|Soft Drink
+10180|Ginger ale|Grocery|Pepsi|Soft Drink
+10181|Google Pixel|Electronics|Apple|Smartphone
+10182|Google Pixel|Electronics|Samsung|Smartphone
+10183|Google Pixel|Electronics|Sony|Smartphone
+10184|Google Pixel Slate|Electronics|Apple|Tablet
+10185|Google Pixel Slate|Electronics|Samsung|Tablet
+10186|Granola bars|Grocery|Nestle|Snacks
+10187|Grape juice|Grocery|Coca-Cola|Juice
+10188|Grape juice|Grocery|Pepsi|Juice
+10189|Grape soda|Grocery|Coca-Cola|Soft Drink
+10190|Grape soda|Grocery|Pepsi|Soft Drink
+10191|Grapefruit juice|Grocery|Coca-Cola|Juice
+10192|Grapefruit juice|Grocery|Pepsi|Juice
+10193|Graphic tee|Clothing|Adidas|T-shirt
+10194|Graphic tee|Clothing|Nike|T-shirt
+10195|Ground coffee|Grocery|Nestle|Coffee
+10196|Hammer|Home Decor|Home Depot|Tools
+10197|HDR TV|Electronics|Samsung|Television
+10198|HDR TV|Electronics|Sony|Television
+10199|Health|Books|HarperCollins|Non-Fiction
+10200|Health|Books|Penguin Books|Non-Fiction
+10201|Health|Books|Random House|Non-Fiction
+10202|Henley shirt|Clothing|Zara|Shirt
+10203|Henley tee|Clothing|Adidas|T-shirt
+10204|Henley tee|Clothing|Nike|T-shirt
+10205|High heels|Clothing|Adidas|Shoes
+10206|High heels|Clothing|Nike|Shoes
+10207|High-waisted jeans|Clothing|Zara|Jeans
+10208|Historical fiction|Books|HarperCollins|Fiction
+10209|Historical fiction|Books|Penguin Books|Fiction
+10210|Historical fiction|Books|Random House|Fiction
+10211|History|Books|HarperCollins|Non-Fiction
+10212|History|Books|Penguin Books|Non-Fiction
+10213|History|Books|Random House|Non-Fiction
+10214|Hoodie|Clothing|Zara|Shirt
+10215|Horror|Books|HarperCollins|Fiction
+10216|Horror|Books|Penguin Books|Fiction
+10217|Horror|Books|Random House|Fiction
+10218|HP Spectre|Electronics|Apple|Laptop
+10219|Huawei MediaPad|Electronics|Apple|Tablet
+10220|Huawei MediaPad|Electronics|Samsung|Tablet
+10221|Huawei P|Electronics|Apple|Smartphone
+10222|Huawei P|Electronics|Samsung|Smartphone
+10223|Huawei P|Electronics|Sony|Smartphone
+10224|Iced tea|Grocery|Coca-Cola|Soft Drink
+10225|Iced tea|Grocery|Pepsi|Soft Drink
+10226|In-ear headphones|Electronics|Sony|Headphones
+10227|Instant coffee|Grocery|Nestle|Coffee
+10228|Inverter AC|Electronics|BlueStar|BlueStar AC
+10229|Inverter AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10230|iPad|Electronics|Apple|Tablet
+10231|iPad|Electronics|Samsung|Tablet
+10232|iPhone|Electronics|Apple|Smartphone
+10233|iPhone|Electronics|Samsung|Smartphone
+10234|iPhone|Electronics|Sony|Smartphone
+10235|Khaki shorts|Clothing|Nike|Shorts
+10236|Latte|Grocery|Nestle|Coffee
+10237|LCD TV|Electronics|Samsung|Television
+10238|LCD TV|Electronics|Sony|Television
+10239|Leather jacket|Clothing|Adidas|Jacket
+10240|LED TV|Electronics|Samsung|Television
+10241|LED TV|Electronics|Sony|Television
+10242|Legal thriller|Books|HarperCollins|Thriller
+10243|Lemon-lime soda|Grocery|Coca-Cola|Soft Drink
+10244|Lemon-lime soda|Grocery|Pepsi|Soft Drink
+10245|Lenovo Tab|Electronics|Apple|Tablet
+10246|Lenovo Tab|Electronics|Samsung|Tablet
+10247|Lenovo ThinkPad|Electronics|Apple|Laptop
+10248|Level|Home Decor|Home Depot|Tools
+10249|LG G|Electronics|Apple|Smartphone
+10250|LG G|Electronics|Samsung|Smartphone
+10251|LG G|Electronics|Sony|Smartphone
+10252|LG Gram|Electronics|Apple|Laptop
+10253|Literary fiction|Books|HarperCollins|Fiction
+10254|Literary fiction|Books|Penguin Books|Fiction
+10255|Literary fiction|Books|Random House|Fiction
+10256|Literary fiction|Books|Random House|Literature
+10257|Loafers|Clothing|Adidas|Shoes
+10258|Loafers|Clothing|Nike|Shoes
+10259|Long-sleeve tee|Clothing|Adidas|T-shirt
+10260|Long-sleeve tee|Clothing|Nike|T-shirt
+10261|Low-rise jeans|Clothing|Zara|Jeans
+10262|MacBook|Electronics|Apple|Laptop
+10263|Macchiato|Grocery|Nestle|Coffee
+10264|Mango juice|Grocery|Coca-Cola|Juice
+10265|Mango juice|Grocery|Pepsi|Juice
+10266|Mattress topper|Home Decor|Bed Bath & Beyond|Bedding
+10267|Maxi dress|Clothing|Zara|Dress
+10268|Memoir|Books|HarperCollins|Non-Fiction
+10269|Memoir|Books|Penguin Books|Non-Fiction
+10270|Memoir|Books|Random House|Non-Fiction
+10271|Microsoft Surface|Electronics|Apple|Tablet
+10272|Microsoft Surface|Electronics|Samsung|Tablet
+10273|Microsoft Surface Laptop|Electronics|Apple|Laptop
+10274|Microwave|Home Decor|Bed Bath & Beyond|Kitchen
+10275|Milk chocolate|Grocery|Nestle|Chocolate
+10276|Mineral water|Grocery|Coca-Cola|Water
+10277|Mineral water|Grocery|Pepsi|Water
+10278|Mini fridge|Electronics|Whirepool|Fridge
+10279|Mini-split AC|Electronics|BlueStar|BlueStar AC
+10280|Mini-split AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10281|Mirror|Home Decor|Bed Bath & Beyond|Bathroom
+10282|Mirrors|Home Decor|Home Depot|Decorations
+10283|Mirrors|Home Decor|IKEA|Decorations
+10284|Mixed fruit juice|Grocery|Coca-Cola|Juice
+10285|Mixed fruit juice|Grocery|Pepsi|Juice
+10286|Mocha|Grocery|Nestle|Coffee
+10287|Modern literature|Books|Random House|Literature
+10288|Motorola Moto|Electronics|Apple|Smartphone
+10289|Motorola Moto|Electronics|Samsung|Smartphone
+10290|Motorola Moto|Electronics|Sony|Smartphone
+10291|Mystery|Books|HarperCollins|Fiction
+10292|Mystery|Books|HarperCollins|Thriller
+10293|Mystery|Books|Penguin Books|Fiction
+10294|Mystery|Books|Random House|Fiction
+10295|Nightstand|Home Decor|Home Depot|Furniture
+10296|Nightstand|Home Decor|IKEA|Furniture
+10297|Noise-cancelling headphones|Electronics|Sony|Headphones
+10298|Nokia|Electronics|Apple|Smartphone
+10299|Nokia|Electronics|Samsung|Smartphone
+10300|Nokia|Electronics|Sony|Smartphone
+10301|Non-fiction literature|Books|Random House|Literature
+10302|Nuts|Grocery|Nestle|Snacks
+10303|Off-the-shoulder tee|Clothing|Adidas|T-shirt
+10304|Off-the-shoulder tee|Clothing|Nike|T-shirt
+10305|OLED TV|Electronics|Samsung|Television
+10306|OLED TV|Electronics|Sony|Television
+10307|On-ear headphones|Electronics|Sony|Headphones
+10308|OnePlus|Electronics|Apple|Smartphone
+10309|OnePlus|Electronics|Samsung|Smartphone
+10310|OnePlus|Electronics|Sony|Smartphone
+10311|Orange juice|Grocery|Coca-Cola|Juice
+10312|Orange juice|Grocery|Pepsi|Juice
+10313|Orange soda|Grocery|Coca-Cola|Soft Drink
+10314|Orange soda|Grocery|Pepsi|Soft Drink
+10315|Oven|Home Decor|Bed Bath & Beyond|Kitchen
+10316|Over-ear headphones|Electronics|Sony|Headphones
+10317|Oxfords|Clothing|Adidas|Shoes
+10318|Oxfords|Clothing|Nike|Shoes
+10319|Package AC|Electronics|BlueStar|BlueStar AC
+10320|Parka|Clothing|Adidas|Jacket
+10321|Peacoat|Clothing|Adidas|Jacket
+10322|Pendant lights|Home Decor|IKEA|Lighting
+10323|Picture frames|Home Decor|Home Depot|Decorations
+10324|Picture frames|Home Decor|IKEA|Decorations
+10325|Pillowcase set|Home Decor|Bed Bath & Beyond|Bedding
+10326|Pineapple juice|Grocery|Coca-Cola|Juice
+10327|Pineapple juice|Grocery|Pepsi|Juice
+10328|Plain tee|Clothing|Adidas|T-shirt
+10329|Plain tee|Clothing|Nike|T-shirt
+10330|Plasma TV|Electronics|Samsung|Television
+10331|Plasma TV|Electronics|Sony|Television
+10332|Pliers|Home Decor|Home Depot|Tools
+10333|Plush toys|Books|Penguin Books|Children's
+10334|Poetry|Books|Random House|Literature
+10335|Political thriller|Books|HarperCollins|Thriller
+10336|Polo shirt|Clothing|Zara|Shirt
+10337|Pomegranate juice|Grocery|Coca-Cola|Juice
+10338|Pomegranate juice|Grocery|Pepsi|Juice
+10339|Popcorn|Grocery|Nestle|Snacks
+10340|Portable AC|Electronics|BlueStar|BlueStar AC
+10341|Portable AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10342|Pretzels|Grocery|Nestle|Snacks
+10343|Psychological thriller|Books|HarperCollins|Thriller
+10344|Psychology|Books|HarperCollins|Non-Fiction
+10345|Psychology|Books|Penguin Books|Non-Fiction
+10346|Psychology|Books|Random House|Non-Fiction
+10347|Puffer jacket|Clothing|Adidas|Jacket
+10348|Purified water|Grocery|Coca-Cola|Water
+10349|Purified water|Grocery|Pepsi|Water
+10350|Puzzles|Books|Penguin Books|Children's
+10351|QLED TV|Electronics|Samsung|Television
+10352|QLED TV|Electronics|Sony|Television
+10353|Quilt|Home Decor|Bed Bath & Beyond|Bedding
+10354|Raglan tee|Clothing|Adidas|T-shirt
+10355|Raglan tee|Clothing|Nike|T-shirt
+10356|Razer Blade|Electronics|Apple|Laptop
+10357|Recessed lighting|Home Decor|IKEA|Lighting
+10358|Refrigerator|Home Decor|Bed Bath & Beyond|Kitchen
+10359|Romance|Books|HarperCollins|Fiction
+10360|Romance|Books|Penguin Books|Fiction
+10361|Romance|Books|Random House|Fiction
+10362|Root beer|Grocery|Coca-Cola|Soft Drink
+10363|Root beer|Grocery|Pepsi|Soft Drink
+10364|Rugs|Home Decor|Home Depot|Decorations
+10365|Rugs|Home Decor|IKEA|Decorations
+10366|Running shoes|Clothing|Adidas|Shoes
+10367|Running shoes|Clothing|Nike|Shoes
+10368|Samsung Galaxy|Electronics|Apple|Smartphone
+10369|Samsung Galaxy|Electronics|Samsung|Smartphone
+10370|Samsung Galaxy|Electronics|Sony|Smartphone
+10371|Samsung Galaxy Tab|Electronics|Apple|Tablet
+10372|Samsung Galaxy Tab|Electronics|Samsung|Tablet
+10373|Samsung Notebook|Electronics|Apple|Laptop
+10374|Sandals|Clothing|Adidas|Shoes
+10375|Sandals|Clothing|Nike|Shoes
+10376|Saw|Home Decor|Home Depot|Tools
+10377|Science|Books|HarperCollins|Non-Fiction
+10378|Science|Books|Penguin Books|Non-Fiction
+10379|Science|Books|Random House|Non-Fiction
+10380|Science fiction|Books|HarperCollins|Fiction
+10381|Science fiction|Books|Penguin Books|Fiction
+10382|Science fiction|Books|Random House|Fiction
+10383|Scoop neck tee|Clothing|Adidas|T-shirt
+10384|Scoop neck tee|Clothing|Nike|T-shirt
+10385|Screwdriver set|Home Decor|Home Depot|Tools
+10386|Sculptures|Home Decor|Home Depot|Decorations
+10387|Sculptures|Home Decor|IKEA|Decorations
+10388|Self-help|Books|HarperCollins|Non-Fiction
+10389|Self-help|Books|Penguin Books|Non-Fiction
+10390|Self-help|Books|Random House|Non-Fiction
+10391|Sheath dress|Clothing|Zara|Dress
+10392|Shift dress|Clothing|Zara|Dress
+10393|Short stories|Books|Random House|Literature
+10394|Shower|Home Decor|Bed Bath & Beyond|Bathroom
+10395|Shower curtain|Home Decor|Bed Bath & Beyond|Bathroom
+10396|Side-by-side refrigerator|Electronics|Whirepool|Fridge
+10397|Sink|Home Decor|Bed Bath & Beyond|Bathroom
+10398|Skinny jeans|Clothing|Zara|Jeans
+10399|Skorts|Clothing|Nike|Shorts
+10400|Slippers|Clothing|Adidas|Shoes
+10401|Slippers|Clothing|Nike|Shoes
+10402|Smart refrigerator|Electronics|Whirepool|Fridge
+10403|Smart TV|Electronics|Samsung|Television
+10404|Smart TV|Electronics|Sony|Television
+10405|Sneakers|Clothing|Adidas|Shoes
+10406|Sneakers|Clothing|Nike|Shoes
+10407|Soap dispenser|Home Decor|Bed Bath & Beyond|Bathroom
+10408|Sofa|Home Decor|Home Depot|Furniture
+10409|Sofa|Home Decor|IKEA|Furniture
+10410|Sony Xperia|Electronics|Apple|Smartphone
+10411|Sony Xperia|Electronics|Samsung|Smartphone
+10412|Sony Xperia|Electronics|Sony|Smartphone
+10413|Sony Xperia Tablet|Electronics|Apple|Tablet
+10414|Sony Xperia Tablet|Electronics|Samsung|Tablet
+10415|Sparkling water|Grocery|Coca-Cola|Water
+10416|Sparkling water|Grocery|Pepsi|Water
+10417|Split AC|Electronics|BlueStar|BlueStar AC
+10418|Split AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10419|Sports equipment|Books|Penguin Books|Children's
+10420|Sports headphones|Electronics|Sony|Headphones
+10421|Spring water|Grocery|Coca-Cola|Water
+10422|Spring water|Grocery|Pepsi|Water
+10423|Stainless steel refrigerator|Electronics|Whirepool|Fridge
+10424|Stove|Home Decor|Bed Bath & Beyond|Kitchen
+10425|Straight-leg jeans|Clothing|Zara|Jeans
+10426|Studio headphones|Electronics|Sony|Headphones
+10427|Sundress|Clothing|Zara|Dress
+10428|Suspense|Books|HarperCollins|Thriller
+10429|Sweatshirt|Clothing|Zara|Shirt
+10430|Swim trunks|Clothing|Nike|Shorts
+10431|Table lamps|Home Decor|IKEA|Lighting
+10432|Tank top|Clothing|Zara|Shirt
+10433|Tape measure|Home Decor|Home Depot|Tools
+10434|Techno-thriller|Books|HarperCollins|Thriller
+10435|Thriller|Books|HarperCollins|Fiction
+10436|Thriller|Books|Penguin Books|Fiction
+10437|Thriller|Books|Random House|Fiction
+10438|Throw pillow|Home Decor|Bed Bath & Beyond|Bedding
+10439|Toaster|Home Decor|Bed Bath & Beyond|Kitchen
+10440|Toilet|Home Decor|Bed Bath & Beyond|Bathroom
+10441|Toilet paper holder|Home Decor|Bed Bath & Beyond|Bathroom
+10442|Tomato juice|Grocery|Coca-Cola|Juice
+10443|Tomato juice|Grocery|Pepsi|Juice
+10444|Toothbrush holder|Home Decor|Bed Bath & Beyond|Bathroom
+10445|Top-freezer refrigerator|Electronics|Whirepool|Fridge
+10446|Towel rack|Home Decor|Bed Bath & Beyond|Bathroom
+10447|Toys|Books|Penguin Books|Children's
+10448|Track lighting|Home Decor|IKEA|Lighting
+10449|Trail mix|Grocery|Nestle|Snacks
+10450|Travel|Books|HarperCollins|Non-Fiction
+10451|Travel|Books|Penguin Books|Non-Fiction
+10452|Travel|Books|Random House|Non-Fiction
+10453|Trench coat|Clothing|Adidas|Jacket
+10454|Truffles|Grocery|Nestle|Chocolate
+10455|T-shirt|Clothing|Zara|Shirt
+10456|TV stand|Home Decor|Home Depot|Furniture
+10457|TV stand|Home Decor|IKEA|Furniture
+10458|Under cabinet lighting|Home Decor|IKEA|Lighting
+10459|Utility knife|Home Decor|Home Depot|Tools
+10460|Varsity jacket|Clothing|Adidas|Jacket
+10461|Vases|Home Decor|Home Depot|Decorations
+10462|Vases|Home Decor|IKEA|Decorations
+10463|V-neck tee|Clothing|Adidas|T-shirt
+10464|V-neck tee|Clothing|Nike|T-shirt
+10465|Wall art|Home Decor|Home Depot|Decorations
+10466|Wall art|Home Decor|IKEA|Decorations
+10467|Wall sconces|Home Decor|IKEA|Lighting
+10468|Wardrobe|Home Decor|Home Depot|Furniture
+10469|Wardrobe|Home Decor|IKEA|Furniture
+10470|White chocolate|Grocery|Nestle|Chocolate
+10471|Wide-leg jeans|Clothing|Zara|Jeans
+10472|Windbreaker|Clothing|Adidas|Jacket
+10473|Window AC|Electronics|BlueStar|BlueStar AC
+10474|Window AC|Electronics|Mitsubhisi|Mitsubishi 1.5 Ton 3 Star Split AC
+10475|Wireless headphones|Electronics|Sony|Headphones
+10476|Wrap dress|Clothing|Zara|Dress
+10477|Wrench|Home Decor|Home Depot|Tools
+10478|Xiaomi Mi|Electronics|Apple|Smartphone
+10479|Xiaomi Mi|Electronics|Samsung|Smartphone
+10480|Xiaomi Mi|Electronics|Sony|Smartphone

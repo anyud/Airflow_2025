@@ -1,0 +1,131 @@
+CityId|City|State|Country
+88301|Adelaide|New South Wales|Australia
+87982|Albuquerque|New Mexico|USA
+54966|Albury-Wodonga|New South Wales|Australia
+22169|Arlington|Virginia|USA
+30775|Atlanta|Georgia|USA
+79853|Austin|Texas|USA
+51463|Ballarat|New South Wales|Australia
+21017|Baltimore|Maryland|USA
+50485|Barrie|Ontario|Canada
+39293|Bendigo|New South Wales|Australia
+43830|Berlin|Berlin|Germany
+29437|Bielefeld|Berlin|Germany
+28780|Birmingham|England|UK
+15439|Bochum|Berlin|Germany
+20849|Bonn|Berlin|Germany
+2696|Boston|Massachusetts|USA
+76592|Bremen|Berlin|Germany
+67759|Brighton|England|UK
+66476|Brisbane|New South Wales|Australia
+35569|Bristol|England|UK
+55221|Cairns|New South Wales|Australia
+56807|Calgary|Ontario|Canada
+68768|Canberra|New South Wales|Australia
+56694|Cardiff|England|UK
+27995|Charlotte|North Carolina|USA
+61536|Chicago|Illinois|USA
+43331|Cleveland|Ohio|USA
+21665|Cologne|Berlin|Germany
+80441|Colorado Springs|Colorado|USA
+44168|Columbus|Ohio|USA
+76686|Dallas|Texas|USA
+76909|Darwin|New South Wales|Australia
+80904|Denver|Colorado|USA
+48089|Detroit|Michigan|USA
+85126|Dortmund|Berlin|Germany
+43247|Dresden|Berlin|Germany
+30882|Duisburg|Berlin|Germany
+52659|D??sseldorf|Berlin|Germany
+23848|Edinburgh|England|UK
+60827|Edmonton|Ontario|Canada
+75521|El Paso|Texas|USA
+25842|Essen|Berlin|Germany
+75593|Fort Worth|Texas|USA
+72583|Frankfurt|Berlin|Germany
+94347|Fresno|California|USA
+63177|Geelong|New South Wales|Australia
+58163|Glasgow|England|UK
+19950|Gold Coast|New South Wales|Australia
+972|Halifax|Ontario|Canada
+56734|Hamburg|Berlin|Germany
+41438|Hamilton|Ontario|Canada
+64961|Hanover|Berlin|Germany
+63762|Hobart|New South Wales|Australia
+77838|Houston|Texas|USA
+63789|Hull|England|UK
+46106|Indianapolis|Indiana|USA
+33106|Jacksonville|Florida|USA
+65693|Kansas City|Missouri|USA
+51268|Kelowna|Ontario|Canada
+64395|Kitchener|Ontario|Canada
+89068|Las Vegas|Nevada|USA
+87013|Launceston|New South Wales|Australia
+93974|Leeds|England|UK
+13761|Leicester|England|UK
+11004|Leipzig|Berlin|Germany
+70792|Liverpool|England|UK
+66700|London|England|UK
+93435|Long Beach|California|USA
+92637|Los Angeles|California|USA
+42064|Louisville|Kentucky|USA
+21801|Mackay|New South Wales|Australia
+59314|Manchester|England|UK
+21143|Melbourne|New South Wales|Australia
+38052|Memphis|Tennessee|USA
+85752|Mesa|Arizona|USA
+33346|Miami|Florida|USA
+54347|Milwaukee|Wisconsin|USA
+55236|Minneapolis|Minnesota|USA
+87392|Montreal|Ontario|Canada
+88268|Munich|Berlin|Germany
+57893|M??nster|Berlin|Germany
+37177|Nashville|Tennessee|USA
+70564|New Orleans|Louisiana|USA
+14281|New York|New York|USA
+82207|Newcastle|New South Wales|Australia
+54968|Newcastle upon Tyne|England|UK
+81268|Nottingham|England|UK
+58283|Nuremberg|Berlin|Germany
+90928|Oakland|California|USA
+73053|Oklahoma City|Oklahoma|USA
+68070|Omaha|Nebraska|USA
+66885|Oshawa|Ontario|Canada
+66664|Ottawa|Ontario|Canada
+94417|Oxford|England|UK
+10534|Perth|New South Wales|Australia
+15960|Philadelphia|Pennsylvania|USA
+85396|Phoenix|Arizona|USA
+19641|Plymouth|England|UK
+97887|Portland|Oregon|USA
+88498|Portsmouth|England|UK
+29465|Quebec City|Ontario|Canada
+28834|Raleigh|North Carolina|USA
+62986|Regina|Ontario|Canada
+95325|Sacramento|California|USA
+77244|San Antonio|Texas|USA
+93198|San Diego|California|USA
+91336|San Francisco|California|USA
+92646|San Jose|California|USA
+48791|Saskatoon|Ontario|Canada
+98265|Seattle|Washington|USA
+23597|Sheffield|England|UK
+39602|Southampton|England|UK
+63567|St. John's|Ontario|Canada
+55508|Stuttgart|Berlin|Germany
+72611|Sydney|New South Wales|Australia
+3368|Toowoomba|New South Wales|Australia
+84450|Toronto|Ontario|Canada
+62244|Townsville|New South Wales|Australia
+86457|Tucson|Arizona|USA
+73054|Tulsa|Oklahoma|USA
+77601|Vancouver|Ontario|Canada
+10422|Victoria|Ontario|Canada
+23711|Virginia Beach|Virginia|USA
+98460|Washington|Washington|USA
+67689|Wichita|Kansas|USA
+69688|Windsor|Ontario|Canada
+70078|Winnipeg|Ontario|Canada
+77764|Wollongong|New South Wales|Australia
+37802|Wuppertal|Berlin|Germany
+87264|Belfast|England|UK
